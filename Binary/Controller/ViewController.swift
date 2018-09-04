@@ -34,9 +34,9 @@ class ViewController: UIViewController {
     
     func disableButtons(){
         binaryButton.isEnabled = false
-        binaryButton.alpha = 0.5
+        binaryButton.alpha = 0.3
         decimalbutton.isEnabled = false
-        decimalbutton.alpha = 0.5
+        decimalbutton.alpha = 0.3
     }
     
     func enableButtons(){
